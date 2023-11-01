@@ -1,2 +1,2 @@
 # ExplorerHolder
-A simple tool add tab button in explorer window for win10
+> ExplorerHolder is a simple tool to make explorer window with tab buttons in windows 10.
